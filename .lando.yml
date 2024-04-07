@@ -1,0 +1,9 @@
+name: kinopoisklite
+recipe: lamp
+config:
+  php: 8.1
+  webroot: public
+  services:
+    phpmyadmin:
+      type: phpmyadmin
+
